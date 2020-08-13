@@ -1,1 +1,41 @@
 
+    ##EXPLORATORY DATA ANALYSIS
+
+READING MATERIAL FOR VIDEO 2 - EDA_video2
+
+
+NOTEBOOK FOR VIDEO 3 SCREENCAST - EDA_video3
+
+
+NOTEBOOK FOR THE SCREENCAST
+
+QUIZ - 
+
+READING - 
+
+  seaborn - https://seaborn.pydata.org/
+  ploty - https://plot.ly/python/
+  bokeh - https://github.com/bokeh/bokeh
+  ggplot - http://ggplot.yhathq.com/ 
+  graphic visualization with networkx - https://networkx.github.io/
+  
+  Others
+  
+  Biclustering algorithms for sorting corplots - http://scikit-learn.org/stable/auto_examples/bicluster/plot_spectral_biclustering.html
+
+
+
+     ##EDA EXAMPLES
+
+
+
+
+
+    ##VALIDATION
+
+QUIZ - 
+
+
+
+    ##DATA LEAKAGE 
+QUIZ - https://necromuralist.github.io/kaggle-competitions/posts/data-leaks/
