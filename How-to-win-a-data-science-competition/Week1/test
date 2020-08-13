@@ -1,13 +1,11 @@
 
-    ##EXPLORATORY DATA ANALYSIS
+    **EXPLORATORY DATA ANALYSIS**
 
 READING MATERIAL FOR VIDEO 2 - EDA_video2
 
 
 NOTEBOOK FOR VIDEO 3 SCREENCAST - EDA_video3
 
-
-NOTEBOOK FOR THE SCREENCAST
 
 QUIZ - 
 
@@ -25,17 +23,26 @@ READING -
 
 
 
-     ##EDA EXAMPLES
+     **EDA EXAMPLES**
+NOTEBOOK FOR THE SCREENCAST - EDA_Springleaf_screencast
 
 
 
 
 
-    ##VALIDATION
+    **VALIDATION**
 
-QUIZ - 
-
+QUIZ - https://necromuralist.github.io/kaggle-competitions/posts/validation/
+READING - 
+    Validation in Sklearn - http://scikit-learn.org/stable/modules/cross_validation.html
+    Advices on validation in a competition - http://www.chioka.in/how-to-select-your-final-models-in-a-kaggle-competitio/
+    
 
 
     ##DATA LEAKAGE 
 QUIZ - https://necromuralist.github.io/kaggle-competitions/posts/data-leaks/
+Notebook: Data leakages - data leakages 
+Reading - 
+    Perfect score script by Oleg Trott (used to probe leaderboard) - https://www.kaggle.com/olegtrott/the-perfect-score-script
+    Page about data leakages on Kaggle - https://www.kaggle.com/docs/competitions#leakage
+    Another page about data leakages on Kaggle - https://www.kaggle.com/dansbecker/data-leakage
